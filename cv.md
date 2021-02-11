@@ -1,6 +1,6 @@
 # Resume
 1. My name is Mikhail Baranov.
-1. Contact info: mail.baranov@gmail.com
+1. Contact info: mail.baranov@gmail.com, +79052973263
 1. Goals: I want to go to web programming
 1. Skills: C/C++, 1C, HTML and CSS basics, JS basics, git, SQL basic.
 1. Code example:
